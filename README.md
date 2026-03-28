@@ -4,6 +4,8 @@ A single-page web application for generating PDF invoices. Runs entirely in the 
 
 > **Totally Claude'd** ✨
 
+<img src="docs/screenshot.png" alt="Sample invoice output" width="331">
+
 ## Features
 
 - Generate professional PDF invoices with customizable fields
